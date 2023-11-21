@@ -1,6 +1,1 @@
-## Bolierplate with Model and Controllers
-
-```Bash
-npm run dev
-
-```
+# ExpressJS and MongoDB Simple Boilerplate
